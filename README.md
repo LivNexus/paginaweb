@@ -1,3 +1,3 @@
 # paginaweb
 Página web para a disciplina de Bootcamp I
-<a href="https://livnexus.github.io/portifolio-faculdade/">Site</a>
+Repositório com projetos, acadêmicos, exercícios e estudos em Ciências da Computação. Para a atividade intermediária de Bootcamp I.
